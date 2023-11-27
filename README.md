@@ -1,8 +1,8 @@
 # calculator
 
-A new Flutter project.
-
 ## Getting Started
+
+![1688755522948](https://github.com/azix-khan/flutter_calculator/assets/138978130/08023c6f-9c65-4fae-8ef8-abf6f3a99241)
 
 This project is a starting point for a Flutter application.
 
